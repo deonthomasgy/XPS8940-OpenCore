@@ -1,5 +1,7 @@
 # XPS8940-OpenCore
 
+![Alt text](/screenshot.jpg?raw=true "Screenshot")
+
 Dell XPS 8940 - OpenCore
 OpenCore 0.7.8 - macOS Big Sur 11.6.3 - BIOS version 2.4.0
 
